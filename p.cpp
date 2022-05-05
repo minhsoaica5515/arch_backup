@@ -7,6 +7,11 @@ void duma(int &x)
 	std::cout << x << std::endl;
 }
 
+void omg()
+{
+	std::cout << "hmmm";
+}
+
 int main()
 {
 	int f = 55;
