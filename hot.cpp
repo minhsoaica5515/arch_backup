@@ -2,7 +2,10 @@
 
 int main()
 {
-	int x = 6;
-	std::cout << x;
+	int gg[6] = {1, 5, 23, 6, 3, 13};
+	for (int i = 0; i < 6; i++)
+	{
+		std::cout << gg[i];
+	}
 	return 0;
 }
